@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650798888216",
+    "project_id": "animecharacters-e5529",
+    "storage_bucket": "animecharacters-e5529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650798888216:android:f55afba522ba7800d5da6d",
+        "android_client_info": {
+          "package_name": "com.cloud.animecharactersfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650798888216-f4c76bv9gcfeih3n0g92jq56mj7grmgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPrUtGMUVrXRE1ByRfQOGo5-yCY_on-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650798888216-f4c76bv9gcfeih3n0g92jq56mj7grmgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
